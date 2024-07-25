@@ -8,7 +8,7 @@ TOKEN = ""
 # channel to send welcome messages to
 WELCOME_CHANNEL = "welcome"
 # all the nicknames for the random_nickname command
-NICKS = ["example1", "example2", "example3"]
+NICKS = ["nipper", "dipper", "hipper"]
 
 # you can change the prefix here
 bot = commands.Bot(command_prefix="!")
